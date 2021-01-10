@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d8f1438-5272-4a07-b48b-90cf3cb4f26b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulus.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d8f1438-5272-4a07-b48b-90cf3cb4f26b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
