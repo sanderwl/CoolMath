@@ -29,7 +29,7 @@ while (int(currentClick.get_attribute("class")[-1]) < 1):
     print(currentClick.get_attribute("class")[-1])
     print(currentID)
 
-squareGrid = np.zeros((3,3))
+squareGrid = np.zeros((3, 3))
 
 def surrounding(currentNum):
 
